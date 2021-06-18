@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: wx-app-management
+  datasource:
+    url: jdbc:mysql://xxxx:3306/xxxx?characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: xxxx
+    password: xxxx
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    show-sql: true
+server:
+  port: 9090
+management:
+  wx-open:
+    app-id: xxx
+    app-secret: xxx
+    ase-key: xxx
+    token: xxx
+    auth-redirect-url: https://xxx

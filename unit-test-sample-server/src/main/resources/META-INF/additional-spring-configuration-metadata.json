@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "management.wx-open.app-id",
+      "type": "java.lang.String",
+      "description": "wx open plat app id."
+    },
+    {
+      "name": "management.wx-open.app-secret",
+      "type": "java.lang.String",
+      "description": "wx open plat app secret."
+    },
+    {
+      "name": "management.wx-open.ase-key",
+      "type": "java.lang.String",
+      "description": "wx open plat app ase key."
+    },
+    {
+      "name": "management.wx-open.token",
+      "type": "java.lang.String",
+      "description": "wx open plat app token."
+    },
+    {
+      "name": "management.wx-open.auth-redirect-url",
+      "type": "java.lang.String",
+      "description": "wx open plat app auth redirect url."
+    }
+  ]
+}
